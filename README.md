@@ -1,4 +1,13 @@
-### Hi there 👋
+### Under development 👋
+
+Some default ideas:
+###
+
+- 🔭 I’m currently working on Cloud Security and Data
+- 🌱 I’m currently learning Cybersecurity and Azure..
+- 👯 I’m looking to collaborate on Security Projects.
+- 💬 Ask me about Python, Data, Security and DevSecOps.
+- ⚡ Fun fact: I know everything a little bit.
 
 <!--
 **hiyoku/hiyoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
