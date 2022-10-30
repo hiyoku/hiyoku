@@ -3,7 +3,7 @@ Atualmente trabalhando com Segurança em ambientes Cloud (Azure e AWS) e Dados (
 
 #### 💻 Tecnologias e ferramentas que eu conheço
 <div style="display: inline-block">
-  <img align="center" alt="Python-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Python-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
   <img align="center" alt="C-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
   <img align="center" alt="AWS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Azure-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg">
