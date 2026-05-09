@@ -14,15 +14,15 @@
  
 ## 👨‍💻 Sobre mim
  
-Arquiteto de Dados e Tech Lead com mais de **10 anos de experiência** entregando soluções escaláveis, seguras e de alto impacto nos setores financeiro, saúde e varejo.
+Arquiteto de Dados e IA e Tech Lead com mais de **10 anos de experiência** entregando soluções escaláveis, seguras e de alto impacto nos setores financeiro, saúde e varejo.
  
-Atuo na interseção entre **Engenharia de Dados**, **Arquitetura Cloud** e **Segurança**, traduzindo desafios complexos de negócio em soluções tecnológicas robustas e mensuráveis.
+Atuo na interseção entre **Engenharia de Dados e IA**, **Arquitetura Cloud** e **Segurança**, traduzindo desafios complexos de negócio em soluções tecnológicas robustas e mensuráveis.
  
 - 🔭 Atualmente trabalhando como **Engenheiro de Dados** na Tinnova (cliente: PagSeguro)
 - 🏗️ Especialista em **Data Mesh**, pipelines regulatórios e governança de dados
 - ☁️ Forte atuação em **AWS**, **Azure** e ambientes multi-cloud
 - 🔐 Background em **Cloud Security** — assessments, SIEM e DevSecOps
-- 🤖 Experiência com **IA Generativa** e Azure OpenAI em ambientes corporativos
+- 🤖 Experiência com **IA Generativa** e Azure OpenAI (Azure Foundry) em ambientes corporativos
 - 💬 Pergunte-me sobre Python, Dados, Segurança Cloud e Arquitetura de Sistemas
  
 ---
